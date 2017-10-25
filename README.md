@@ -1,6 +1,6 @@
 # Telegram Bot Blockly
 
-Simple way to create [telegram-node-bot](https://github.com/Naltox/telegram-node-bot) using visual language
+Simple way to create [telegram-node-bot](https://github.com/Naltox/telegram-node-bot) using visual language.
 
 ## Getting Started
 
